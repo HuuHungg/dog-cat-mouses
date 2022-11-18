@@ -5,6 +5,6 @@ function cat() {
 
 Cat.prototype.eat = function (mouse) {
 	this.stomaach.push(mouse)
-}
+}  
 
 module.exports = Cat
